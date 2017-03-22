@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "name": "json-refs-with-yaml-sandbox",
+  "description": "json refs with yaml sandbox",
+  "main": "index.js",
+  "author": "jigsaw (http://jgs.me)",
+  "license": "MIT",
+  "dependencies": {
+    "js-yaml": "^3.8.2",
+    "json-refs": "^2.1.6"
+  }
+}
